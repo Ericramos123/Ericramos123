@@ -8,3 +8,8 @@
 - 🎯 **Objetivo:** Expandir meus conhecimentos em programação e desenvolvimento de soluções inovadoras. Atualmente, estou em busca de projetos desafiadores para aplicar o que aprendi e evoluir como desenvolvedor.
 - 📫 **Vamos nos conectar!** Sinta-se à vontade para entrar em contato e trocar ideias sobre tecnologia.
 
+
+### 🐍 Cobra dos commits
+
+![snake gif](https://github.com/Ericramos123/Ericramos123/blob/output/github-contribution-grid-snake.svg)
+
