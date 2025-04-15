@@ -9,8 +9,6 @@
 - 📫 **Vamos nos conectar!** Sinta-se à vontade para entrar em contato e trocar ideias sobre tecnologia.
 
 
-### 🐍 Cobra dos commits
-
 ![snake gif](https://github.com/Ericramos123/Ericramos123/blob/main/dist/github-contribution-grid-snake.svg)
 
 
